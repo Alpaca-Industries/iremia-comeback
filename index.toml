@@ -1,0 +1,106 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/armorstandeditor.pw.toml"
+hash = "5732254c42451afa123a6d9a0be40373e8cbc5e7bdc0584dd6140cee9229777c"
+metafile = true
+
+[[files]]
+file = "mods/audioplayer.pw.toml"
+hash = "f1d3adbe9c3562c5cea15aa9258863528b8f3e167ddcd1a37128dd0d92605f27"
+metafile = true
+
+[[files]]
+file = "mods/bluemap.pw.toml"
+hash = "df7c9f54dd8c123198e3621d7bc9b414b5e5d5c83c315004aafc8ade5ec1bc65"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "93d29c2876e202584a08a4754b51850730d2dbc85ae350f4fa140a854768a3bb"
+metafile = true
+
+[[files]]
+file = "mods/dcintegration.pw.toml"
+hash = "885f45bf2ea19246852578532b2f413b015edaa8512d28a215383bf0d9656199"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "e9870688b5c78a9cc50f79922fdac81e1999279f5567cd5092952adaf6471313"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "14e87ff6253d2bd02697e46b4a9b5060465d72b71663def5236f829e30bac6d6"
+metafile = true
+
+[[files]]
+file = "mods/fabrictailor.pw.toml"
+hash = "8f796f3d24fcf3c041e7fd4631e2c536018e027778bbf2fe36ddacdca5220cf4"
+metafile = true
+
+[[files]]
+file = "mods/fallingtree.pw.toml"
+hash = "c905c782c9d072071f34d6e29e7636d24125e0f06281788f4782268dfa476ef4"
+metafile = true
+
+[[files]]
+file = "mods/fsit.pw.toml"
+hash = "09272024e52b002a8b684cad708f5f8ef954f8935434f991079622bc26be34cb"
+metafile = true
+
+[[files]]
+file = "mods/image2map.pw.toml"
+hash = "8dceaa147be3ea1bba17b378d4539f24bd0e8d9200aba7fc22deea8696b4cba0"
+metafile = true
+
+[[files]]
+file = "mods/improved-sign-editing.pw.toml"
+hash = "85f0b1fb418f54807072a4ed7e8cd962bcb6fb9c991ec0dc1e8e4387ba447158"
+metafile = true
+
+[[files]]
+file = "mods/just-player-heads.pw.toml"
+hash = "48d171b1c83f44b1d26ed5ae1ba87cb2f7d51327ccda2c79f1eae49f6e38d580"
+metafile = true
+
+[[files]]
+file = "mods/ledger.pw.toml"
+hash = "be01c706542e5e1a1dd4f960f2405dbed2aa4d3a15168d2e8c49e2ba9e070030"
+metafile = true
+
+[[files]]
+file = "mods/luckperms.pw.toml"
+hash = "37215db466ab8ec3d0e7d05490833254411d092e8b9656d14583f0c15bd7ed37"
+metafile = true
+
+[[files]]
+file = "mods/polymer.pw.toml"
+hash = "72308359404fc8240eead504d850e93dbcc02b5b5ea82775fb7e1eaa9885f534"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "8f541ff641df705e688c2f1f3df042527e8c33e096ab5e62252e6b6c88daba84"
+metafile = true
+
+[[files]]
+file = "mods/styled-chat.pw.toml"
+hash = "64b58a742f766fba51fdf1db8942d7810c71a2ea57e73b5919ae24f531e779a8"
+metafile = true
+
+[[files]]
+file = "mods/styled-nicknames.pw.toml"
+hash = "7a6a28c769f83459b44ec908f01a479c4c22d932b06c9e7cf38aa664270ac861"
+metafile = true
+
+[[files]]
+file = "mods/styledplayerlist.pw.toml"
+hash = "f163850cb5a2544393b14b9d6cdc4e173efc1dc90aeb82fdf1d095339c0ad682"
+metafile = true
+
+[[files]]
+file = "mods/universal-graves.pw.toml"
+hash = "40ed861a14bccb693a571b2eff11b0b9fa73f367b191be02722902ca8601510b"
+metafile = true

@@ -1,0 +1,13 @@
+name = "IdeaDrawn"
+author = "Greyberet"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d6a264321dc768929d873a5434d52949520b5c0ca92a32393d82a2ebac7bc03c"
+
+[versions]
+fabric = "0.15.11"
+minecraft = "1.21"
