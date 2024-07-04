@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "93d29c2876e202584a08a4754b51850730d2dbc85ae350f4fa140a854768a3bb"
+hash = "947c63ea5ef39acffd205eb16ff3f92f09cca88503def799ab4f814b3de9e46f"
 metafile = true
 
 [[files]]
@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "e9870688b5c78a9cc50f79922fdac81e1999279f5567cd5092952adaf6471313"
+hash = "fc96b91acafcbaf76bf94d2dff7d53a53fdbf52ccc6030acbfffe13a365cc982"
 metafile = true
 
 [[files]]
@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallingtree.pw.toml"
-hash = "c905c782c9d072071f34d6e29e7636d24125e0f06281788f4782268dfa476ef4"
+hash = "6113e9ad5b738d95e0f517e5672f1c82b2045204af8be0505c05a4b6a78404b7"
 metafile = true
 
 [[files]]
@@ -82,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "8f541ff641df705e688c2f1f3df042527e8c33e096ab5e62252e6b6c88daba84"
+hash = "555516aa5d5572cc85cd517bcb85eba16b999d21cb1e9835877adf0c96486cb9"
 metafile = true
 
 [[files]]
@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/styledplayerlist.pw.toml"
-hash = "f163850cb5a2544393b14b9d6cdc4e173efc1dc90aeb82fdf1d095339c0ad682"
+hash = "a4fc712afb566a3964468c0df86eabce031ec9b844d7f42abf79e05de73b4591"
 metafile = true
 
 [[files]]
